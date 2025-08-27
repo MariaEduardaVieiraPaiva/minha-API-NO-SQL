@@ -1,0 +1,28 @@
+h1{
+    color: blue
+}
+h2{
+    color:coral
+}
+#preco {
+    color: red
+}
+#preco2 {
+    color: red
+}
+#preco3 {
+    color: red
+}
+#preco4 {
+    color: red
+}
+#preco5 {
+    color: red
+}
+.botao:hover {
+    margin-left: 500px;
+}
+.botao{
+    background-color: green;
+    border: none
+}   
